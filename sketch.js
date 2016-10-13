@@ -1,14 +1,14 @@
-var brownRed = 70
-var brownGreen = 50
-var brownBlue = 50
+var brownRed = 70;
+var brownGreen = 50;
+var brownBlue = 50;
 
-var eyeWhite = 500
+var eyeWhite = 500;
 
-var pinkRed = 150
-var pinkGreen = 0
-var pinkBlue = 60
+var pinkRed = 150;
+var pinkGreen = 0;
+var pinkBlue = 60;
 
-var pupilBlack = 0
+var pupilBlack = 0;
 
 
 
